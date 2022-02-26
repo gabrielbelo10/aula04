@@ -1,0 +1,33 @@
+
+* { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.foto__receita {
+    background-image: url(/img/pudim.jpg);
+    height: 400px;
+    background-size: 20% 80%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: yellow;
+    background-color: red;
+}
+
+h2 {
+    color: red;
+    background-color: azure;
+}
+
+.review-score {
+    color: white;
+    background-color: #e6bd09;
+    padding: 2px;
+
+}
